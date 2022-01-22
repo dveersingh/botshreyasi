@@ -3,7 +3,7 @@
 run app.py file
 
 
-    python aap.py
+    python app.py
     
     
 #### mysql is used for database. Schema file added.
